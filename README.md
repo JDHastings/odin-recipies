@@ -1,2 +1,2 @@
 # odin-recipies
-[insert reflection of what I did and learned from this project here]
+Used html to make a couple basic webpages. Used headers, images, links, ordered and unordered lists, paragraphs, and basic file structure.
